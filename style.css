@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e9e5dd;
+}
+
+#project {
+  background-color: #e9e5dd;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+h3 {
+  color: #354259;
+  font-size: 18px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
